@@ -41,15 +41,15 @@ I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dellviea&background=f8c8dc&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" />
 </p>
 
-
+#### 🎮 Play game with me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br/>
 
-<img src="https://raw.githubusercontent.com/Dellviea/Dellviea/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dellviea/Dellviea/output/snake.svg" alt="Snake animation" />
+</p>
