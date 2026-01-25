@@ -1,4 +1,4 @@
-## Hi! i'm Della Oktavia👋
+## Hi! i'm Della👋
 
 
 ![Della Oktavia](img/della-image.jpg)
