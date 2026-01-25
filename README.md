@@ -26,12 +26,12 @@ I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence
 <!-- <p align="center">kalo mau ditengah 
   <img src="https://skillicons.dev/icons?i=html,css,go,python,canva&theme=light" />
 </p> -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,go,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,go&theme=light)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/HTML5-f8c8dc?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/CSS3-f8c8dc?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/Go-f8c8dc?style=for-the-badge&logo=go" />
-<img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python" />
+<!-- <img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python" /> -->
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8c8dc?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/della-oktavia) [![Instagram](https://img.shields.io/badge/Instagram-f8c8dc?style=for-the-badge&logo=instagram)](https://instagram.com/dellviaa._) [![Email](https://img.shields.io/badge/Email-f8c8dc?style=for-the-badge&logo=gmail)](mailto:dellaviea23@gmail.com)
