@@ -32,5 +32,3 @@ I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence
     <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,100:c2185b&height=120&section=footer" width="100%" />
