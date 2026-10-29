@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 <!-- #### 🌸 About Me
 I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence & Machine Learning and Backend Development, who enjoys exploring new technologies and learning new things along the way. -->
 
-#### Skills
-<!-- <p align="center">kalo mau ditengah 
-  <img src="https://skillicons.dev/icons?i=html,css,go,python,canva&theme=light" />
-</p> -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,go&theme=light)](https://skillicons.dev)
+#### 🛠️ Skills & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,html,css,git,github,vscode&theme=light" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-f8c8dc?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-f8c8dc?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/Go-f8c8dc?style=for-the-badge&logo=go" />
-<!-- <img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python" /> -->
-
-#### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f8c8dc?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/della-oktavia) [![Instagram](https://img.shields.io/badge/Instagram-f8c8dc?style=for-the-badge&logo=instagram)](https://instagram.com/dellviaa._) [![Email](https://img.shields.io/badge/Email-f8c8dc?style=for-the-badge&logo=gmail)](mailto:dellaviea23@gmail.com)
+#### 🌐 Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/della-oktavia"><img src="https://img.shields.io/badge/LinkedIn-f8c8dc?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://instagram.com/dellviaa._"><img src="https://img.shields.io/badge/Instagram-f8c8dc?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+  <a href="mailto:dellaviea23@gmail.com"><img src="https://img.shields.io/badge/Email-f8c8dc?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
 #### 📊 GitHub Stats
 <p align="center">
@@ -42,14 +42,9 @@ I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence
 </p>
 
 #### 🎮 Play game with me
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dellviea/Dellviea/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph-dark.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Dellviea/Dellviea/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
