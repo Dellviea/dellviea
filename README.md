@@ -15,9 +15,9 @@ I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence
 
 #### 🌐 Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/della-oktavia"><img src="https://img.shields.io/badge/LinkedIn-f8c8dc?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://instagram.com/dellviaa._"><img src="https://img.shields.io/badge/Instagram-f8c8dc?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <a href="mailto:dellaviea23@gmail.com"><img src="https://img.shields.io/badge/Email-f8c8dc?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/della-oktavia"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://instagram.com/dellviaa._"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>&nbsp;
+  <a href="mailto:dellaviea23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>
 </p>
 
 #### 📊 GitHub Stats
