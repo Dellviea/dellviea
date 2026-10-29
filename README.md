@@ -38,7 +38,7 @@ I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence
 
 #### 📊 GitHub Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dellviea&background=f8c8dc&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Dellviea&background=f8c8dc&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" />
 </p>
 
 #### 🎮 Play game with me
