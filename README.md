@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- #### 🌸 About Me
-I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence & Machine Learning and Backend Development, who enjoys exploring new technologies and learning new things along the way. -->
+#### 🌸 About Me
+I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence & Machine Learning and Backend Development, who enjoys exploring new technologies and learning new things along the way.
 
 #### 🛠️ Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,html,css,git,github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,go,html,css,mysql,docker,tensorflow,git,github,vscode,canva&theme=light" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence
 
 #### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dellviea&background=f8c8dc&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Dellviea&background=f8c8dc&ring=c2185b&fire=c2185b&currStreakLabel=c2185b&currStreakNum=4a2c3a&sideNums=4a2c3a&sideLabels=4a2c3a&dates=7a4a5e&stroke=ffffff&hide_border=true" />
 </p>
 
 #### 🎮 Play game with me
