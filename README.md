@@ -3,17 +3,13 @@
 
 ![Della Oktavia](img/della-image.jpg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=800&color=C2185B&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Backend+Developer+in+Progress+%F0%9F%8C%B8;Always+Learning+Something+New+%E2%9C%A8" alt="Typing animation" />
-</p>
-
 #### 🌸 About Me
 I'm Della Oktavia, a curious learner with an interest in Artificial Intelligence & Machine Learning and Backend Development, who enjoys exploring new technologies and learning new things along the way.
 
 #### 🛠️ Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,html,css,mysql,tensorflow,git,github,vscode,canva&theme=light" />
+    <img src="img/skills.svg" alt="Skills" />
   </a>
 </p>
 
