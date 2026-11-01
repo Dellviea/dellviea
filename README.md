@@ -3,9 +3,6 @@
 </p>
 
 <h2 align="center">Hi! I'm Della 👋</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dellviea&color=c2185b&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
 
 <h4 align="center">🌸 About Me</h4>
 <p align="center">
