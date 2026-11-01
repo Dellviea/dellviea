@@ -18,6 +18,7 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/pacman-contribution-graph.svg?color_snake=#c2185b&color_dots=#ebedf0,#f8c8dc,#f48fb1,#ec407a,#ad1457
             dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#f8c8dc&color_dots=#161b22,#5c1a33,#8e2453,#c2185b,#f06292
