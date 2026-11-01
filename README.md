@@ -25,7 +25,7 @@
 
 <h4 align="center">📊 GitHub Stats</h4>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dellviea&background=fff0f5&ring=c2185b&fire=c2185b&currStreakLabel=c2185b&currStreakNum=ad1457&sideNums=ad1457&sideLabels=c2185b&dates=d48aa7&stroke=f8c8dc&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Dellviea&background=fff0f5&ring=c2185b&fire=c2185b&currStreakLabel=c2185b&currStreakNum=ad1457&sideNums=ad1457&sideLabels=c2185b&dates=d48aa7&stroke=f8c8dc&hide_border=true&v=1101" />
 </p>
 
 <h4 align="center">🎮 Play game with me</h4>
